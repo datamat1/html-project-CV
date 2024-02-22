@@ -1,0 +1,384 @@
+
+
+									<!CV>
+
+			<center><h1>
+						<font size="48" color="black">Shahadat Hussain, PhD </font><img src="C:\Users\shahadat.hussain\Desktop\DESK FOLDER\Shah.jpg" alt="Shahadat photo" style="float:right;width:120px;height:140px">	<br/>
+
+				<font size="3" color="gray"> POSTDOCTORAL FELLOW · MECHANICAL ENGINEERING · ADAM LAB </font> <br/>
+
+				<font size="3" color="black">Khalifa University, Main Campus, Abu Dhabi, UAE 127788</font><br/>
+
+				<font size="3" color="black"> +971 50 6280812 | shahadat_ind@yahoo.com | 					https://sites.google.com/view/shahadathussain |
+						https://www.linkedin.com/in/shahadathussain </font>
+			</h1></center>
+
+
+ 							    	  <!Summary>
+
+<h2>Summary</h2>   <hr>                  		       
+
+	In a position as a postdoctoral fellow at Khalifa University, an esteemed institution ranked 181<sup>st</sup> by QS, I am fervently
+	engaged in a multitude of projects centered around the additive manufacturing of NiTi triply periodic minimal surface (TPMS) structures. 	My active collaboration with the Advanced Digital and Additive Manufacturing Center (ADAM) at KU bolsters my endeavors. Furthermore, I 	am fortunate to collaborate with renowned universities such as the University of Thessaly in Greece and CSIR‑AMPRI in India. My 	contributions to the scientific community have been substantial, with numerous high‑impact research papers published in esteemed 	journals. Equipped with adept skills, I proficiently supervise students and successfully navigate the publication process independently. 	Moreover, I possess valuable experience in teaching mechanical engineering to undergraduate students. My research work has been 	showcased on multiple occasions at both national and international conferences, amplifying its reach and impact.
+
+                      
+								 <!Research Interests>
+
+<h2>Research Interests</h2>     <hr>       			 
+
+	Laser Powder Bed Fusion (LPBF), Additive Manufacturing (AM), Shape Memory alloys (SMAs), Fatigue testing, Microstructural
+	Characterization, Thermal Analysis, High Temperature Casting, Hot Rolling, Heat Treatment </p>
+
+
+								<!Teaching Interests>
+<h2>Teaching Interests</h2>         <hr>                       
+
+	Basic Mechanical Engineering, Engineering Thermodynamics, Mechanics of Materials, Engineering Materials, Heat
+	Transfer 
+
+
+								<!Work Experience>
+
+
+<h2>Work Experience</h2>		<hr>			   
+
+  <p><font size="4">POSTDOCTORAL FELLOW <span style="float: right;"><i>Abu Dhabi, UAE</i></span></p>
+  <p>Mechanical Enginering Department<span style="float:right;"><i>Feb 2020-Present</i></span></font></p>
+
+	<ul>
+	<li>Examining and characterizing the properties of additively manufactured NiTi triply periodic minimal surface (TPMS)
+	structures, specifically Schwartz primitive and Schoen gyroid lattices, which belong to the category of porous, cellular,
+	and architected materials.</li>
+	<li>Performing tensile and fatigue tests on thin NiTi wires with different diameters, chemical compositions, and surface
+	treatments (including etched, mechanically polished, etched polished, and light oxide coating) using an Instron
+	8872 fatigue testing machine.</li>
+	<li> Applying various analytical techniques such as optical microscopy, SEM (Scanning Electron Microscopy), XRD (X‑ray
+	Diffraction), EDS (Energy‑Dispersive X‑ray Spectroscopy), metallography, heat treatment, EBSD (Electron Backscatter
+	Diffraction), AFM (Atomic Force Microscopy), and EBSD for the investigation and analysis of the materials. </li>
+	<li><b>Technical Skills:</b>EBSD, AFM, Python.</li>
+	<li><b>Soft Skills:</b> Teamwork, Time Management, Communication, Presentation Skills.</li>
+	</ul>
+
+
+  <p><font size="4">PROJECT FELLOW <span style="float:right;"><i>Bhopal, India</i></span></p>
+  <p>CSIR‑Advanced Materials and Processes Research Institute <span style="float:right"><i>Bhopal, India</i></span></font></p>
+	<ul>
+	<li>Extensive scientific research experience with experimentation, data analysis, teamwork, problem‑solving, and effective
+	communication. Proficient in relationship building, negotiation skills.</li>
+	<li>Engaged in diverse experimental tasks: alloy synthesis, metallography, heat treatment, and material characterization
+	using spectroscopy, microscopy, diffractometry, calorimetry, hardness, tensile, and hot rolling.</li>
+	<li>Published 5 articles, presented research via posters and oral presentations, collaborated with Indian Institute of
+	Technology, Madras.</li>
+	<li><b>Technical Skills:</b> Induction Casting, Optical Microscopy, Tensile Testing, Hot Rolling, Heat Treatment </li>
+	<li><b>Soft Skills: </b>Communication Skills, Presentation, Scientific Writing, Project Management </li>
+	</ul>
+
+
+<p><font size="4">LECTURER <span style="float:right"><i>Bhopal, India</i></span></p>
+<p>Mechanical Engineering Department, Oriental Group of Institutions <span style="float:right"><i>Sep 2012-May 2013</i></span></font></p>
+
+	<ul>
+	<li>Taught mechanical engineering subjects, covered materials science, machine component design, mechanics of materials,
+	and basic concepts. Conducted laboratory activities for practical learning.</li>
+	<li>Participated in ISTE workshop on Engineering Thermodynamics, gained skills in classification, problem‑solving, and
+	technical presentation.</li>
+	<li>Positive student feedback, completed syllabus on time, promoted academic excellence, supported student improvement,
+	established strong student relationships.</li>
+	<li><b>Technical Skills: </b>Teaching, Mechanical Engineering, Materials Science </li>
+	<li><b>Soft Skills:</b> Communication, Presentation, Time Management </li>
+
+	</ul>
+
+								<!Education> 
+
+<h2>Education</h2> <hr>				
+
+<p><font size="4">ACADEMY OF SCIENTIFIC AND INNOVATIVE RESEARCH <span style="float:right"><i>Bhopal, India</i></span></p>
+<p>PhD (Enginering Sciences) in Materials Science and Technology <span style="float:right"><i>Aug 2014-Jul 2019</i></span></font></p>
+
+
+	<ul>
+	<li>Doctoral research on Cu‑Al‑Ni shape memory alloys, studied impact of grain refiners, alloying additions, and processing
+	parameters on shape memory properties for high‑temperature applications.</li>
+	<li>Published 2 SCI articles, delivered 5 conference presentations.</li>
+	<li><b>Skills:</b> High Temperature Casting, Hot Rolling, Heat Treatment, Shape Memory Testing, Mechanical Testing, Spectroscopy </li>
+	</ul>
+
+
+
+<p><font size="4">UNIVERSITY INSTITUTE OF TECHNOLOGY-RGPV<span style="float:right"><i>Bhopal, India</i></span></p>
+<p>Bachelor of Engineering in Mechanical Engineering<span style="float:right"><i>Aug 2008-May 2012</i></span></font></p>
+
+	<ul>
+	<li>Graduated with First Division Aggregate </li>
+	<li>Underwent 2‑week industrial training at Steel Authority of India Limited (SAIL)‑Bokaro, gained practical knowledge
+	in multiple departments. </li>
+	</ul>
+
+							
+								<!Research Projects>
+<h2>Research Projects</h2><hr>
+
+<p><font size="4">Additive manufacturing of NiTi shape memory alloys, constitutive modeling and fatigue failure criteria <span style="float:right"><i>Abu Dhabi, UAE</i></span></p>
+<p>Khalifa University <span style="float:right"><i>Feb 2020-Present</i></span></font></p>
+
+	<ul>
+	<li>Involved in 3D printing of NiTi samples and TPMS structures </li>
+	<li>Extensive characterizations performed using SEM, TEM, XRD, AFM, DSC, and fatigue testing </li>
+	<li>Made novel findings and published research articles based on the conducted research </li>
+	<li><b>Technical Skills: </b>Additive Manufacturing, Overleaf, LaTeX, Python </li>
+	<li><b>Soft Skills: </b>Time Management, Teamwork, Presentation Skills, Report Writing.</li>
+	</ul>
+
+<p><font size="4">Design and Development of Thermo‑Responsive and Magnetic Shape Memory Materials and Devices for Engineering Applications <span style="float:right"><i>Bhopal, India</i></span></p>
+<p>CSIR‑Advanced Materials and Processes Research Institue <span style="float:right"><i> Jun 2013-Aug 2014</i></span></font></p>
+
+	<ul>
+	<li>Develop copper‑based shape memory materials with superior mechanical properties, high transition temperatures,
+	and cost‑effective production of shape memory wires and strips.</li>
+	<li>Project outcomes: Published 5 articles in SCI journals, presented at national events, collaborated with Indian Institute
+	of Technology, Madras. Well‑received oral and poster presentations.</li>
+	<li>Technical Skills:</b> Hot Rolling, High Temperature Casting, Heat Treatment, Spectroscopy, Microscopy, Mechanical
+	Testing, Shape Memory Testing, Origin, ImageJ </li>
+	<li><b>Soft Skills:</b> Presentation Skills, Teamwork </li>
+	</ul>
+
+
+								<!Publications>
+
+<h2>Publications</h2><hr>
+
+	<ol>
+	
+	<li>Shahadat Hussain, Ali N Alagha, Wael Zaki, (2023) Phase Transformation Behavior of NiTi Triply Periodic Minimal
+	Surface Lattices Fabricated by Laser Powder Bed Fusion. Journal of Materials Engineering and Performance
+	[Accepted].</li>
+
+	<li>Shahadat Hussain, Ali N Alagha,Gregory N. Haidemenopoulos, Wael Zaki, (2023) Microstructural and surface analysis of NiTi 		TPMS lattice sections fabricated by laser powder bed fusion. Journal of Manufacturing Processes,
+	102:375‑386, https://doi.org/10.1016/j.jmapro.2023.07.055.</li>
+
+	<li>Shahadat Hussain, Ali N Alagha, Wael Zaki, (2022) Imperfections Formation in Thin Layers of NiTi Triply Periodic Minimal 		Surface Lattices Fabricated Using Laser Powder Bed Fusion. Materials, 15(22) 7950, https://doi. aorg/10.3390/ma15227950. </li>
+
+	<li>Ali N Alagha, Shahadat Hussain, Wael Zaki, (2021) Additive Manufacturing of Shape Memory Alloys: A Review with Emphasis on 	Powder 	Bed 	Systems, Materials & Design , 204:109654, https://doi.org/10.1016/ j.matdes.2021.109654.</li>
+
+	<li>Abhishek Pandey, Shahadat Hussain, Prasanth Nair, Rupa Dasgupta, (2020) Influence of niobium and silver on
+	mechanical properties and shape memory behavior of Cu‑12Al‑4Mn alloys. Journal of Alloys and Compounds,
+	https://doi.org/10.1016/j.jallcom.2020.155266.</li>
+
+	<li>Shahadat Hussain, Abhishek Pandey, Rupa Dasgupta, (2019) Nano‑CeO2 Doped Cu‑Al‑Ni SMAs with Enhanced
+	Mechanical as well as Shape Recovery Characteristics. Metals and Materials International, (2021) 27:1478–1482,
+	https://doi.org/10.1007/s12540-019-00570-2.</li>
+
+	<li>Rupa Dasgupta, Abhishek Pandey, Shahadat Hussain, Ashish Kumar Jain, Ayub Ansari, V Sampath (2019) Effect
+	of Microstructure on Roll‑Ability and Shape Memory Effect in Cu‑Based Shape Memory Alloys. Applied Innovative
+	Research 1:29‑37, http://nopr.niscpr.res.in/handle/123456789/45840.</li>
+
+	<li>Shahadat Hussain, Abhishek Pandey, Rupa Dasgupta (2019) Designed polycrystalline ultra‑high ductile boron
+	doped Cu‑Al‑Ni based shape memory alloy. Materials Letters 240:157‑160, https://doi.org/10.1016/j.
+	matlet.2018.12.</li>
+
+	<li>Abhishek Pandey, Ashish Kumar Jain, Shahadat Hussain, V Sampath, Rupa Dasgupta (2016) Effect of Nano
+	CeO2 Addition on the Microstructure and Properties of a Cu‑Al‑Ni Shape Memory Alloy. Metallurgical and Materials
+	Transactions B 47:2205‑2210, https://doi.org/10.1007/s11663-016-0691-0.</li>
+
+	<li>Ashish Kumar Jain, Shahadat Hussain, Pravir Kumar, Abhishek Pandey, Rupa Dasgupta (2015) Effect of Varying
+	Al/Mn Ratio on Phase Transformation in Cu–Al–Mn Shape Memory Alloys. Transactions of Indian Institute of
+	Metals 69:1289‑1295, https://doi.org/10.1007/s12666-015-0689-3.</li>
+
+	<li>Shahadat Hussain, Pravir Kumar, Ashish Kumar Jain, Abhishek Pandey, Rupa Dasgupta (2015) Effects of Different
+	Quaternary Additions in the Properties of a Cu‑Al‑Mn Shape Memory Alloy. Materials Performance and
+	Characterization 4:225‑235, https://doi.org/10.1520/MPC20150017.</li>
+
+	<li>Pravir Kumar, Ashish Kumar Jain, Shahadat Hussain, Abhishek Pandey, Rupa Dasgupta (2015) Changes in the
+	properties of Cu‑Al‑Mn shape memory alloy due to quaternary addition of different elements. Revista Materia
+	20:284‑292, https://doi.org/10.1590/S1517-707620150001.0028.</li>
+
+	<li>Rupa Dasgupta, Ashish Kumar Jain, Pravir Kumar, Shahadat Hussain, Abhishek Pandey (2015) Role of alloying
+	additions on the properties of Cu–Al–Mn shape memory alloys. Journal of Alloys and Compounds 620:60‑66,
+	https://doi.org/10.1016/j.jallcom.2014.09.047.</li>
+
+	<li>Rupa Dasgupta, Ashish Kumar Jain, Pravir Kumar, Shahadat Hussain, Abhishek Pandey (2014) Effect of alloying
+	constituents on the martensitic phase formation in some Cu‑based SMAs. Journal of Materials Research and
+	Technology 3:264–273, https://doi.org/10.1016/j.jmrt.2014.06.004.</li>
+
+	</ol>
+
+
+								<!Conferences>
+	
+<h2>Conferences</h2> <hr>
+
+<h3>Oral Presentations</h3>
+	<ul>
+	<li>“Improvement in shape memory properties of CuAlNiZn shape memory alloys due to addition of grain refiners”
+	presented at National Seminar on Advances in Smart & Functional Materials held at CSIR‑AMPRI, Bhopal
+	on 13‑14th January 2017. Organizers: CSIR‑AMPRI Bhopal, IIM (Bhopal Chapter), MRSI (Bhopal Chapter) and TSI
+	(Bhopal Chapter).</li>
+	<li>“Study of effect of Fe, Cr and Ti on the martensite phase formation in Cu‑12.5wt%Al‑5wt%Mn SMA” presented
+	at International Conference on Materials Science and Technology held at University of Delhi, Delhi India on
+	1‑4th March 2016. Organizers: International Association of Advanced Materials (IAAM), VBRI Press and University
+	of Delhi.</li>
+	</ul>
+<h3>Poster Presentations</h3>
+	<ul>
+	<li>“Microstructural changes and its effect on mechanical as well as shape memory properties in a CuAlNi alloy
+	on addition of dispersoid” presented at Recent Innovations in Advanced Materials (RIAM‑2018): Physics of
+	Advanced Materials held at CSIR‑AMPRI, Bhopal on 18‑19th September, 2018. Organizers: CSIR‑AMPRI Bhopal,
+	MRSI (Bhopal chapter), IIM (Bhopal chapter) and MPCOST Bhopal.</li>
+	
+	<li>“Changes in properties due to alloying addition of Mn and Cr to Cu‑Al‑Ni‑Zn shape memory alloys” presented
+	at India International Science Festival (IISF‑2016) held at CSIR‑NPL, New Delhi India on 7‑11th December,
+	2016. Organizers: CSIR‑NPL, CSIR‑NISCAIR, Ministry of Science & Technology GOI, Ministry of Earth Sciences
+	GOI, Vigyan Bharti and Vigyan Prasar.</li>
+
+	<li>“Effect of Addition of Alloying Element Chromium to Cu‑Al‑Ni‑Zn Shape Memory Alloys” presented at 70th IIM
+	NMD‑ATM Conference held at IIT Kanpur India on 11‑13th November 2016. Organizers: IIM, MSE‑IIT Kanpur
+	and DMSRDE Kanpur.</li>
+
+	<li>“Role of grain refiners for improved shape memory properties of Cu‑12.5wt%Al‑5wt%Mn Shape Memory Alloy”
+	presented at National Seminar on ‘Recent Innovations in Advanced Materials’ held at CSIR‑AMPRI, Bhopal
+	India on 29th December, 2015. Organizers: CSIR‑AMPRI Bhopal, MRSI (Bhopal Chapter) and MPCOST Bhopal.</li>
+	</ul>
+<h3>Proceedings</h3>
+	<ul>
+	<li>Shahadat Hussain, Ali N Alagha, Wael Zaki (2022) Inhomogeneous Microstructure due to Non‑Uniform Solidification
+	Rate in NiTi Triply Periodic Minimal Surface (TPMS) Structures Fabricated via Laser Powder Bed Fusion.
+	ASME International Mechanical Engineering Congress and Exposition (IMECE‑2022), Ohio, USA.
+	https://doi.org/10.1115/IMECE2022-95320.</li>
+
+	<li>Shahadat Hussain, Ashish Kumar Jain, Ansari MA, Abhishek Pandey, Rupa Dasgupta (2017) Study of effect of Fe,
+	Cr and Ti on the martensite phase formation in Cu‑12.5wt%Al‑5wt%Mn SMA. Advanced Materials Proceedings
+	2(1):22‑25. https://doi.org/10.5185/amp.2017/106.</li>
+	</ul>
+
+<h3>Book Chapters</h3>
+	<ul>
+	<li>Rupa Dasgupta., Jain A.K., Shahadat Hussain, Abhishek Pandey., V Sampath. (2018) Effect of Alloying Additions
+	on the Properties Affecting Shape Memory Properties of Cu–12.5Al–5Mn Alloy. In: Muruganant M., Chirazi A., Raj
+	B. (eds) Frontiers in Materials Processing, Applications, Research and Technology. Springer, Singapore. https:
+	//doi.org/10.1007/978-981-10-4819-7_33.</li>
+	</ul>
+
+
+
+							<!Awards, Fellowships, Grants & Honors>
+
+<h2>Awards, Fellowships, Grants & Honors</h2><hr>
+
+	<p>2016 Highest CGPA, PhD Course Work  <span style="float:right"><i> India </i></span></p>
+	<p>2016 Senior Research Fellowship, CSIR‑GATE <span style="float:right"><i>India</i></span></p>
+	<p>2014 Junior Research Fellowship, CSIR‑GATE <span style="float:right"><i>India</i></span></p>
+	<p>2013 Qualified Graduate’s Aptitute Test in Engineering thrice (2013, 2014 and 2015), GATE <span 		style="float:right"><i>India</i></span></p>
+
+
+
+
+							<!Courses, Training & Collaborations>
+
+<h2>Courses, Training & Collaborations</h2><hr>
+	<ul>
+	<li>Our collaboration involved working alongside Prof. Greg Haidemenopoulos, Director of the Laboratory of Materials
+	in the Department of Mechanical Engineering at the University of Thessaly in Volos, Greece. Together, we
+	focused on additive manufacturing using laser bed fusion techniques to create NiTi architected alloys.
+	Additionally, we conducted microstructural characterizations of these alloys as part of our research efforts. </li>
+	<li> Completed 10‑week teaching certificate course at Khalifa University in 2023, covering effective teaching strategies,
+	assessment techniques, ethics, professionalism, active learning, classroom dynamics, educational technology,
+	and intercultural communication.</li>
+	<li>Completed hydrofluoric acid handling course in 2021, preparing risk assessment and standard operating
+	procedure forms for chemical etching of 3D printed NiTi samples.</li>
+	<li>Completed lab safety courses at Khalifa University in 2021, covering topics such as induction, ergonomics,
+	emergency response, waste management, chemical safety, fire safety, risk assessment, electrical and radiation
+	safety, cryogenic substances, ventilation, and personal protective equipment.</li>
+	<li>Participated in Responsible Conduct of Research course by CITI program in 2020, covering subjects such as
+	plagiarism, human subjects research, authorship, conflicts of interest, data management, research misconduct,
+	and RCR basics, achieving 100% grade.</li>
+	<li>During my PhD, I trained lab operators in the casting shop on vacuum induction melting and die casting
+	techniques. Additionally, I created standard operating procedure manual for operating the furnace. I was
+	solely responsible for operating these machines and successfully synthesized Cu‑based shape memory alloys
+	from elemental raw materials.</li>
+	<li>Conducted CSIR‑800 study on entrepreneurship in a village, involving surveying, questionnaire design, consulting
+	with village head and Patwari, data analysis, and report creation.</li>
+	<li>Completed 14 subjects during PhD coursework from 2014 to 2015, including scientific ethics, technical communication,
+	safety, characterization, lightweight materials, composite science, computer simulation, cellular
+	materials, functional materials, and nanoscience, achieving distinction.</li>
+	<li>I partnered with Prof. Sampath V, a professor in the Department of Metallurgical and Materials Engineering at
+	IIT‑Madras, India, to utilize his laboratory for synthesizing Cu‑based shape memory alloys. We employed the
+	induction melting technique thereafter, which marked the beginning of the facility in our laboratory at CSIRAMPRI,
+	Bhopal, India. Furthermore, we collaborated on research work and jointly authored research articles
+	based on our findings.</li>
+	</ul>
+
+
+									<!Expertise>
+<h2>Expertise</h2><hr>
+Proficient in operating advanced characterization and analysis equipment:
+	<ul>
+	<li>Scanning Electron Microscopes (SEM): JEOL 7610F, FEI Nova NanovSEM, and FEI Quanta 3D FIB, for imaging
+	and EDS analysis.</li>
+
+	<li>X‑ray Diffraction: Utilized Bruker D2 phasor and Rigaku MiniFlex II for crystal structure analysis.</li>
+	<li>Optical Microscopy: Skilled in using Leica microscopes for detailed observation and analysis.</li>
+	<li>Thermal Analysis: Experienced in performing differential scanning calorimetry using Mettler Toledo DSC 1 and
+	Setaram instruments.</li>
+	<li>Optical Emission Spectroscopy: Proficient in utilizing Bruker Q4 Tasman for elemental analysis of copper and
+	nickel‑based alloys.</li>
+	<li>Mechanical Testing: Conducted tensile and compression tests with Instron 5969 static loading and fatigue
+	testing using Instron 8872 machine.</li>
+	<li>Metallography: Skilled in metallographic techniques including grinding, polishing, hot and cold mounting,
+	and ultrasonic and plasma cleaning using Struer and Buehler equipment.</li>
+	<li>Chemical Etching: Competent in performing etching of metal alloys using various etchants, including hydrofluoric
+	acid.</li>
+	<li>Casting/Fabrication: Experience in alloy casting/fabrication using vacuum induction melting furnace.</li>
+	<li>Heat Treatment: Proficient in applying heat treatment processes using muffle furnaces with different temperature
+	profiles and quenching cycles.</li>
+	<li>Rolling: Skilled in both cold and hot rolling techniques of metallic samples using asymmetric two‑roll mill
+	machines.</li>
+	<li>Additive Manufacturing: Experienced in the additive manufacturing of NiTi shape memory alloys.</li>
+	<li>Software: Proficient in various software applications including Xpert HighScore Plus, ImageJ, Origin, microscope
+	image analysis software like Gatan Suite, CAD, programming languages such as Python, and word processing tools like LaTeX.</li>
+	</ul>
+
+
+
+								<!Certifications>
+<h2>Certifications</h2> <hr>
+	<ol>
+	<li>Using Databases with Python, Coursera, July 2023 [University of Michigan] </li>
+	<li>FreeCAD: A Basic 3D Modeling, Udemy, June 2023 </li>
+	<li>Teaching Certificate Course for Postgraduate Students, Khalifa University, May 2023 </li>
+	<li>Using Python to Access Web Data, Coursera, May 2023 [University of Michigan]</li>
+	<li>Python Data Structures, Coursera, February 2023 [University of Michigan] </li>
+	<li>Programming for Everybody (Getting Started with Python), Coursera, February 2023 [University of Michigan]</li>
+	<li>Responsible Conduct of Research, CITI Program, July 2020</li>
+	</ol>
+
+									<!Reviewer>
+<h2>Reviewer</h2><hr>
+Intermetallics, Metals and Materials International
+
+
+									<!Research Metrics>
+
+<h2>Research Metrics</h2><hr>
+<font color="gray">October 2023</font>
+	<ul>
+	<li>Experience (Research and Teaching) = 6 years</li>
+ 	<li>Google Scholar Citations = 260</li>
+	<li>Google Scholar H Index = 8</li>
+	<li>Google Scholar I10 Index = 7</li>
+	</ul>
+	
+									<!References>
+
+
+<h2>References</h2><hr>
+	<ul>
+	<li>Prof. Wael Zaki, Professor, Mechanical Engineering Department, Khalifa University, Abu Dhabi, UAE. Email:
+	wael.zaki@ku.ac.ae. </li>
+	<li>Dr. Abhishek Pandey, Senior Scientist, CSIR‑Advanced Materials and Processes Research Institute, Bhopal, India.
+	Email: abhishekpandey@ampri.res.in. </li>
+	<li>Dr. Rupa Dasgupta, Chief Scientist (former), CSIR‑Advanced Materials and Processes Research Institute, Bhopal,
+	India. Email: rupa_dasgupta@hotmail.com. </li>
+	</ul>
+
+
